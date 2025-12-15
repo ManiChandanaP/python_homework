@@ -1,0 +1,15 @@
+function: hello_world
+positional parameters: none
+keyword parameters: none
+return: None
+-----
+function: many_positional_args
+positional parameters: (1, 2, 3, 4, 5)
+keyword parameters: none
+return: True
+-----
+function: many_keyword_args
+positional parameters: none
+keyword parameters: {'name': 'Chandana', 'age': 26, 'job': 'Engineer'}
+return: <function logger_decorator at 0x000001EE66C5D080>
+-----
