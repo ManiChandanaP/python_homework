@@ -1,0 +1,2 @@
+One challenge was identifying the correct HTML elements because the page uses deeply nested div and li tags. I resolved this by using Chrome developer tools and expanding elements incrementally to isolate the correct containers.
+Another challenge was handling multiple authors for some books. This was resolved by using find_elements instead of find_element and joining the author names with semicolons.
