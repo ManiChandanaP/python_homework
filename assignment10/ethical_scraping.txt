@@ -1,0 +1,10 @@
+Wikipedia Robots.txt Analysis
+
+1. Restricted Sections:
+Wikipedia restricts crawling of administrative pages such as /w/, /wiki/Special:, and certain API endpoints. These areas are not intended for automated access.
+
+2. User Agent Rules:
+Yes, Wikipedia defines specific rules for certain user agents, including stricter limitations for aggressive crawlers and bots.
+
+3. Purpose of robots.txt:
+The robots.txt file communicates which parts of a website are appropriate for automated access. It helps prevent server overload, protects sensitive areas, and promotes responsible and ethical web scraping practices.
